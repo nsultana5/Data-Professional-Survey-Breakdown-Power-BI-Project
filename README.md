@@ -32,6 +32,7 @@ The inclusion of the "other" option led to a diverse range of titles,making anal
 3. **Custom Delimiter:**
    -A custom delimiter was specified during the split operation to effectively categorized and organized the varied titles.
 By implementing these steps, the data was prepared for meaningful analysis and visualization, ensuring a clearer representation of the diverse job titles within the survey responses.
+
 ![image](https://github.com/nsultana5/Data-Professional-Survey-Breakdown-Power-BI-Project/assets/98044004/9336e322-fd5f-4a01-a62b-1f74909a0ada)
 
 
